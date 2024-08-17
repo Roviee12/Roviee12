@@ -66,7 +66,7 @@
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>If you want to call me or text just message my facebook account "ROVELYN LLANDELAR"</p> <!-- Provide contact information here. -->
+            <p>If you want to call me or text just message my facebook account</p> <!-- Provide contact information here. -->
         </section>
     </main>
     <footer>
