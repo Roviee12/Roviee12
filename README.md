@@ -3,57 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>My Portfolio</title>
-    <style>
-  body {
-    font-family: Arial, sans-serif; /* Sets the fontS */
-    margin: 0; /* Removes default margin */
-    padding: 0; /* Removes the default padding*/
-    background-color: white; /* Sets the background to white  color*/
-}
-/* This style for the header */
-header {
-    background-color: plum; /* Sets the background to white  plum*/
-    color: wheat; /* text color in the header */
-    padding: 1rem 0;
-    text-align: center;  /* Centers the text in header */
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline; /* Displays list items in a horizontal line */
-    margin: 0 1rem;
-}
-
-nav ul li a {
-    color: wheat;
-    text-decoration: none; 
-}
-
-main {
-    padding: 2rem;
-}
-
-section {
-    margin-bottom: 2rem;
-}
-
-footer {
-    background-color: plum; /* Sets the background color of the footer */
-    color: wheat; /* Sets the text color in the footer */
-    text-align: center; /* center the text align in the footer*/
-    padding: 1rem 0;
-    position: fixed; /* Fixes the footer */
-    width: 100%;
-    bottom: 0;
-}
-  }
-    </style>
-</head>
 <body>
     <header>
         <h1>My Portfolio</h1>
