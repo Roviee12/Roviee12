@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>My Portfolio</title>
+    <style>
   body {
     font-family: Arial, sans-serif; /* Sets the fontS */
     margin: 0; /* Removes default margin */
@@ -49,8 +51,13 @@ footer {
     width: 100%;
     bottom: 0;
 }
-
+  }
+    </style>
 </head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+    </header>
 <body>
     <header>
         <nav>
